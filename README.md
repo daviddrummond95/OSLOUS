@@ -1,2 +1,2 @@
 # OSLOUS
-Unsupervised matching algorithm combined with a difference in difference in difference analysis 
+This code was developed for a client through Freelancer.com. It was intended to analyze the effects an economic policy had on the OSLO stock market when compared with the US stock market. This was done by using a Scikit Learn Derived Mathcing Algorithm- KDTree. The matched stocks were used a control group for a difference in difference and a difference in difference in difference algorithm. 
